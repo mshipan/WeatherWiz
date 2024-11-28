@@ -9,7 +9,7 @@ const HomePage = () => {
       <div className="flex flex-col md:flex-row items-center justify-center gap-20">
         <div className="flex flex-col gap-6">
           <p
-            className="text-6xl font-heebo font-medium leading-tight text-white"
+            className="text-3xl md:text-6xl font-heebo font-medium leading-tight text-white"
             style={{ textShadow: "2px 2px 4px rgba(0, 0, 0, 0.5)" }}
           >
             WeatherWiz - weather forecasts <br />
